@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🐨 I'm Duy Nguyen, a Financial Economics and Applied Mathematics student minoring in Computer Science at the University of Rochester! 
+🐨 I'm John Nguyen, a Financial Economics and Applied Mathematics student minoring in Computer Science at the University of Rochester! 
 
 🔭 With experience in Data Analysis with Excel VBA, STATA, SQL (MS Access), R and Object-Oriented Programming with Java, I'm passionate about creating new changes and discovering new possibilities in Finance and Banking.
 
