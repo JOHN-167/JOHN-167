@@ -13,6 +13,7 @@ You can see my projects here!
 
 | Project Link | Completion Date | Tools | Description |
 | --- | --- | --- | --- |
+| [URHungry - DandyHack](https://github.com/javac0f/URHungry/) | November 2023 | Python, Taipy, CSS, pandas | A web platform developed by Python and Taipy, enabling students to merge orders and collectively meet minimum price requirements for free shipping from popular grocery stores. |
 | [GIDS Biomedical Data Science Hackathon](https://github.com/lnhtrn/Hackathon-Summer-2023) | August 2023 | Python, DoubletDetection, numpy, pandas, matplotlib, seaborn | **\[First place Undergraduate Division\]** Implementation and optimization of DoubletDetection to predict doublet cells in single cell sequencing data, achieving a MCC score of 0.556. |
 
 
